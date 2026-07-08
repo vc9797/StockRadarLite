@@ -1,1 +1,1 @@
-# StockRadarLite
+Stock Radar Lite starter
